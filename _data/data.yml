@@ -58,7 +58,7 @@ education:
       university: Unicamp
       time: 2016 - Present
       details: |
-        I'm currently developing mechanisms to realize Network Slicing in LTE Networks. Such networks
+        I'm currently developing mechanisms to realize Network Slicing in LTE Networks, in the E-UTRAN and EPC. Such networks
         will be employed as a base for future 5G mobile systems. Furthermore, these proposed mechanisms
         should use more efficiently the LTE network resources.
         
@@ -66,16 +66,16 @@ education:
       university: Federal University of Uberlândia
       time: 2014 - 2016
       details: |
-        Relying on SDN, I developed a mechanism to gather network metrics (e.g. delay, throughput) and, 
-        based on these metrics, it forwards the network traffic over multiple paths, targeting to improve the end users'
-        QoS experience. 
+        I extended an SDN Controller, enabling it to gather network metrics (e.g. delay, throughput). 
+        Based on these metrics, the Controller pushes forwarding rules into the OpenFlow switches in order to send 
+        network traffic over multiple paths, targeting to improve the end users' QoS experience. 
 
     - degree: BSc in Computer Science
       university: Federal University of Uberlândia
       time: 2009 - 2013
       details: |
-        During this course, I learned the Computer Science theorical background and also had several programming courses.
-        I started researching about Computer Networks during this time, focusing more on SDN.
+        During this bachelor course, I learned the Computer Science theorical background and also had several programming courses.
+        I started researching about Computer Networks during this course, focusing more on SDN.
           
 
 experiences:
@@ -84,7 +84,8 @@ experiences:
       company: Concordia University, Montreal, Canada
       details: |
         I was a visiting researcher working under the supervision of Prof. Roch Glitho. We developed a mechanism to 
-        split multi-stream traffic over multiple paths on top of an OpenFlow network. The mechanism was published on a good conference. 
+        split multi-stream traffic over multiple paths on a OpenFlow network. The mechanism was further
+        published in a good conference. 
 
     - role: Network Intern
       time: 2013
