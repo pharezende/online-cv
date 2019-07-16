@@ -4,154 +4,94 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Pedro Rezende
+    tagline: PhD Student & Computer Networks Researcher
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: phamorimrezende@gmail.com
+    #phone: 012 345 6789
+    #website: blog.webjeda.com #do not add http://
+    linkedin: pedrohrezende
+    #github: sharu725
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
-      - idiom: English
+      - idiom: Portuguese
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
         
-    interests:
-      - item: Climbing
-        link:
+    #interests:
+    #  - item: Climbing
+    #    link:
 
-      - item: Snowboarding
-        link:
+    #  - item: Snowboarding
+    #    link:
 
-      - item: Cooking
-        link:
+    #  - item: Cooking
+    #    link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      I'm currently a Computer Science PhD student at Unicamp, Campinas, Brazil. My research field is computer networks. 
+      My main areas of interest are: Software Defined Network (SDN), Network Function Virtualization (NFV), 
+      4G/5G networks, Network Slicing and Multi-Stream transport traffic.
+      
+      I have a strong background on computer networks, having more than 8 years of experience on it. I also passed a CCNA certication
+      some years ago and was the vice champion of a computer network marathon. I have been working with SDN for around 7 years, developing
+      solutions for all planes composing the SDN architecture. 
+      
 
 education:
+
+    - degree: PhD in Computer Science
+      university: Unicamp
+      time: 2016 - Present
+      details: |
+        During my PhD, I'm developing mechanisms to realize Network Slicing in LTE Networks, 
+        which will be used as a base for future 5G mobile systems. Furthermore, these proposed mechanisms
+        should use more efficiently the LTE network resources.
+        
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      university: Federal University of Uberlandia
+      time: 2014 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Relying on SDN, I developed a mechanism to gather network metrics (e.g. delay, throughput) and, 
+        based on these metrics, the mechanism forwards the network traffic over multiple paths. 
 
-          - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Computer Science
+      university: Federal University of Uberlandia
+      time: 2009 - 2013
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+        During this course, I learned some Computer Science theorical background and also had several programming courses.
+        I started researching about Computer Networks during this time, focusing more on SDN.
+          
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Visiting Researcher
+      time: 2018
+      company: Concordia University, Montreal, Canada
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        I was a visiting researcher working under the supervision of Prof. Roch Glitho. We developed a mechanism to 
+        split multi-stream traffic over multiple paths on a OpenFlow network. The mechanism was published on a good conference. 
 
-          - Bullet point
-          - Bullet point 
-
-    - role: Senior Software Engineer
+    - role: Network Intern
       time: 2014 - 2015
-      company: Google, London
+      company: Federal University of Uberlandia, Brazil
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        During my internship, I worked with php, shell script, SNMP protocol, apache and 
+        tomcat servers, digital certificates and Shibboleth (a logging-in system for Internet).
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
