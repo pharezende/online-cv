@@ -92,17 +92,6 @@ experiences:
       details: |
         During my internship, I worked with php, shell script, SNMP protocol, apache and 
         tomcat servers, digital certificates and Shibboleth (a logging-in system for Internet).
-
-
-publications:
-    title: Publications
-    intro: |
-      Publications updated on 07-16-2019.
-
-    papers:
-    - title: An SDN-Based Framework for Routing Multi-Streams Transport Traffic Over Multipath Networks
-      authors: REZENDE, PEDRO H. A, S. Kianpisheh, R. Glitho, and E. Madeira
-      conference: "IEEE International Conference on Communications (ICC), 2019
         
 skills:
     title: Skills &amp; Proficiency
