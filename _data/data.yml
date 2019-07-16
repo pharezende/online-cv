@@ -83,9 +83,9 @@ experiences:
       time: 2018
       company: Concordia University, Montreal, Canada
       details: |
-        I was a visiting researcher working under the supervision of Prof. Roch Glitho. We developed a mechanism to 
-        split multi-stream traffic over multiple paths on a OpenFlow network. The mechanism was further
-        published in a good conference. 
+        I was a visiting researcher working under the supervision of Prof. Roch Glitho. 
+        We developed a mechanism to split multi-stream traffic over multiple paths in an OpenFlow network. 
+        The mechanism was published in a good conference.
 
     - role: Network Intern
       time: 2013
