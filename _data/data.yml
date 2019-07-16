@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -92,7 +92,6 @@ experiences:
         During my internship, I worked with php, shell script, SNMP protocol, apache and 
         tomcat servers, digital certificates and Shibboleth (a logging-in system for Internet).
 
-awards:
 
 publications:
     title: Publications
