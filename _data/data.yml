@@ -67,7 +67,8 @@ education:
       time: 2014 - 2016
       details: |
         Relying on SDN, I developed a mechanism to gather network metrics (e.g. delay, throughput) and, 
-        based on these metrics, the mechanism forwards the network traffic over multiple paths. 
+        based on these metrics, the mechanism forwards the network traffic over multiple paths, targeting to improve the end users'
+        QoS experience. 
 
     - degree: BSc in Computer Science
       university: Federal University of Uberlandia
@@ -117,17 +118,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Open vSwitch & Floodlight Controller & OpenFlow
+      - name: Open vSwitch & Mininet
         level: 98%
         
-      - name: Java & C/C++
+      - name: Floodlight Controller & OpenFlow
         level: 98%
-
-      - name: ns-3 & SUMO
+        
+      - name: Java
+        level: 98%
+        
+      - name: C/C++
         level: 95%
 
-      - name: Shell script & Javascript & HTML & CSS
+      - name: ns-3
+        level: 95%
+
+      - name: Shell script
         level: 90%
+        
+      - name: Javascript & HTML & CSS
+        level: 85%
 
       - name: Python
         level: 80%
