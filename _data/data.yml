@@ -100,7 +100,8 @@ publications:
       Publications updated on 07-16-2019.
 
     papers:
-        - title: An SDN-Based Framework for Routing Multi-Streams Transport Traffic Over Multipath Networks
+      #- title: An SDN-Based Framework for Routing Multi-Streams Transport Traffic Over Multipath Networks
+       - title: The Art of Computer Programming
         authors: REZENDE, PEDRO H. A, S. Kianpisheh, R. Glitho, and E. Madeira
         conference: "IEEE International Conference on Communications (ICC), 2019"
 
