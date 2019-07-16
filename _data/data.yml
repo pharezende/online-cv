@@ -100,9 +100,6 @@ publications:
       Publications updated on 07-16-2019.
 
     papers:
-      - title: Analysis of monitoring and multipath support on top of OpenFlow specification.
-        authors: REZENDE, P. H. A.; Paulo Rodolfo S. L. Coelho; FAINA, LUIS F.; Lásaro J. C.; PASQUINI, R.
-        conference: "International Journal of Network Management. , p.e2017 - , 2018"
 
       - title: An SDN-Based Framework for Routing Multi-Streams Transport Traffic Over Multipath Networks
         authors: REZENDE, PEDRO H. A, S. Kianpisheh, R. Glitho, and E. Madeira
@@ -115,6 +112,10 @@ publications:
       - title: An adaptive network slicing for LTE radio access networks
         authors: REZENDE, PEDRO H. A.; MADEIRA, EDMUNDO R. M.
         conference: "IEEE Wireless Days (WD), 2018"
+        
+      - title: Analysis of monitoring and multipath support on top of OpenFlow specification.
+        authors: REZENDE, P. H. A.; Paulo Rodolfo S. L. Coelho; FAINA, LUIS F.; Lásaro J. C.; PASQUINI, R.
+        conference: "International Journal of Network Management. , p.e2017 - , 2018"
         
       - title: Um componente de network slicing para o suporte de multi-inquilinos nas RANs do LTE
         authors: REZENDE, PEDRO H. A.; MADEIRA, EDMUNDO R. M.
