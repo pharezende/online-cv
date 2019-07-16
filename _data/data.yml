@@ -100,9 +100,9 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: : An SDN-Based Framework for Routing Multi-Streams Transport Traffic Over Multipath Networks
+        authors: REZENDE, PEDRO H. A, S. Kianpisheh, R. Glitho, and E. Madeira
+        conference: IEEE International Conference on Communications (ICC), 2019
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
