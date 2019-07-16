@@ -96,13 +96,21 @@ experiences:
 publications:
     title: Publications
     intro: |
-      Publications updated on 07-16-2019.
-
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
     papers:
-      - 
-        title: An SDN-Based Framework for Routing Multi-Streams Transport Traffic Over Multipath Networks
-        authors: REZENDE, PEDRO H. A, S. Kianpisheh, R. Glitho, and E. Madeira
-        conference: "IEEE International Conference on Communications (ICC), 2019    
+      - title: The Art of Computer Programming
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
         
 skills:
