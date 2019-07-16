@@ -101,9 +101,12 @@ publications:
 
     papers:
       #- title: An SDN-Based Framework for Routing Multi-Streams Transport Traffic Over Multipath Networks
-       - title: The Art of Computer Programming
-        authors: REZENDE, PEDRO H. A, S. Kianpisheh, R. Glitho, and E. Madeira
-        conference: "IEEE International Conference on Communications (ICC), 2019"
+       #- title: The Art of Computer Programming
+       # authors: REZENDE, PEDRO H. A, S. Kianpisheh, R. Glitho, and E. Madeira
+       # conference: "IEEE International Conference on Communications (ICC), 2019"
+      - title: The Art of Computer Programming
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
       - title: A Network Slicing Component For LTE Uplink Transmission
         authors: REZENDE, PEDRO H. A.; MADEIRA, EDMUNDO R. M.
